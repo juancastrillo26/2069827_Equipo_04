@@ -59,4 +59,4 @@ En esta sección se tienen con más detalle los requerimientos específicos del 
 Se requiere una base de datos que almacene, y resguarde la información requerida por el cliente, además de una página web que muestre todos los  productos que la empresa esta comercializando.
 
 3.2 Requerimientos No Funcionales
-Identificamos que la empresa le seria de utilidad darse a co por el mundo Web , ademas esto ayudaria a impulsar sus ventas y poder expandirse al rededor de la ciudad.
+Identificamos que la empresa le seria de utilidad mostrarse al mundo Web.Ademas esto ayudaria a impulsar sus ventas y poder expandir al rededor de la ciudad.
